@@ -1,0 +1,26 @@
+# Web 框架
+flask
+flask-cors
+
+# 数据库
+pymysql
+sqlalchemy
+
+# 数据分析 / 机器学习
+jieba
+scikit-learn
+pandas
+numpy
+joblib
+wordcloud
+matplotlib
+
+# 爬虫
+requests
+lxml
+selenium
+
+# AI Agent（NL2SQL）
+langgraph
+langchain-openai
+langchain-core

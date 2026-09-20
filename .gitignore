@@ -1,0 +1,24 @@
+# 环境与密钥（.env 含 API Key，切勿提交）
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# 模型文件
+machine/model.pkl
+machine/vectorizer.pkl
+
+# 前端依赖与构建产物
+front-end-template-1-master/node_modules/
+front-end-template-1-master/dist/
+
+# 系统/临时文件
+*.log
+.idea/
+.vscode/
+
+# 安装包 / 二进制文档
+*.msi
+*.exe
+*.docx
+笔记.txt
